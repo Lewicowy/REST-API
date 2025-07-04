@@ -15,8 +15,12 @@
 - **PostgreSQL**
 - **Maven**
 
+### Дополнительно
+- **Обработка ошибок через @ControllerAdvice**
+- **Добавлено кэширование - caffeine**
+
 ## Скриншоты
-![POST](./Postman - Скриншоты для ТЗ Гурьев/POST.png)
-![GET](./Postman - Скриншоты для ТЗ Гурьев/GET.png)
-![PUT](./Postman - Скриншоты для ТЗ Гурьев/PUT.png)
-![DEL](./Postman - Скриншоты для ТЗ Гурьев/DEL.png)
+![POST]("./Postman - Скриншоты для ТЗ Гурьев/POST.png")
+![GET]("./Postman - Скриншоты для ТЗ Гурьев/GET.png")
+![PUT]("./Postman - Скриншоты для ТЗ Гурьев/PUT.png")
+![DEL]("./Postman - Скриншоты для ТЗ Гурьев/DEL.png")
