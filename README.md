@@ -19,6 +19,9 @@
 - **Обработка ошибок через @ControllerAdvice**
 - **Добавлено кэширование - caffeine**
 
+## API Testing
+Для тестирования REST API использовался [Postman](https://www.postman.com/)
+
 ## Скриншоты
 ![POST](./Postman%20-%20Скриншоты%20для%20ТЗ%20Гурьев/POST.png)
 ![GET](./Postman%20-%20Скриншоты%20для%20ТЗ%20Гурьев/GET.png)
